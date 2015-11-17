@@ -1,0 +1,25 @@
+{
+  "name": "elixir-angular-typescript",
+  "version": "0.1.0",
+  "description": "Laravel Elixir AngularJS TypeScript Compiler Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalipert/elixir-angular-typescript.git"
+  },
+  "keywords": [
+    "elixir",
+    "angular",
+    "angularjs",
+    "typescript"
+  ],
+  "author": "Joe Aliperti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalipert/elixir-angular-typescript/issues"
+  },
+  "homepage": "https://github.com/jalipert/elixir-angular-typescript#readme"
+}
