@@ -2,6 +2,7 @@ var gulp = require('gulp');
 var elixir = require('laravel-elixir');
 var ts = require('gulp-typescript');
 var concat = require('gulp-concat');
+var _ = require('underscore');
 
 // Laravel Elixir Reporter
 var _laravelReporter = require('./reporter');
