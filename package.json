@@ -1,6 +1,13 @@
 {
   "name": "elixir-angular-typescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "dependencies": {
+    "gulp-concat": "^2.5.2",
+    "gulp-typescript": "^2.4.2",
+    "gulp-util": "^3.0.4",
+    "node-notifier": "^4.1.2",
+    "underscore": "^1.7.0"
+    },
   "description": "Laravel Elixir AngularJS TypeScript Compiler Extension",
   "main": "index.js",
   "scripts": {
